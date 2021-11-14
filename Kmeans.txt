@@ -1,0 +1,10 @@
+{1: ['The Autobiography of Benjamin Franklin.txt', 'The Prince.txt', 'Readings on Fascism and National Socialism.txt', 'The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt', 'Autobiography of Benjamin Franklin.txt', 'Up from Slavery An Autobiography.txt'], 
+2: ['Autobiography of Makataimeshekiakiak or Black Hawk.txt'], 
+3: ['Bushido the Soul of Japan.txt', 'The Wonderful Wizard of Oz.txt', "Alice's Adventures in Wonderland.txt", 'Theologico Political Treatise.txt', 'The Wit and Humor of America Volume IX.txt', 'Political Ideals.txt', "Pride and Prejudice a play founded on Jane Austen's novel.txt", 'The Call of the Wild.txt', 'The Man in the Brown Suit.txt', 'The Secret Garden.txt', 'Heart of Darkness.txt'], 
+4: ['The Adventures of Tom Sawyer.txt', 'Treasure Island.txt', 'Beautiful Joe An Autobiography.txt']} 
+
+
+{1: ['The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt', 'Autobiography of Benjamin Franklin.txt', 'Up from Slavery An Autobiography.txt'], 
+2: ['Autobiography of Makataimeshekiakiak or Black Hawk.txt'], 
+3: ['Bushido the Soul of Japan.txt', 'The Wonderful Wizard of Oz.txt', "Alice's Adventures in Wonderland.txt", 'Theologico Political Treatise.txt', 'The Wit and Humor of America Volume IX.txt', 'Political Ideals.txt', 'The Autobiography of Benjamin Franklin.txt', 'The Adventures of Tom Sawyer.txt', "Pride and Prejudice a play founded on Jane Austen's novel.txt", 'The Call of the Wild.txt', 'The Man in the Brown Suit.txt', 'The Prince.txt', 'Readings on Fascism and National Socialism.txt', 'Heart of Darkness.txt'], 
+4: ['The Secret Garden.txt', 'Treasure Island.txt', 'Beautiful Joe An Autobiography.txt']} 

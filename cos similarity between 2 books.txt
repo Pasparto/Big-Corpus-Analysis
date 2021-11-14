@@ -1,0 +1,186 @@
+Bushido the Soul of Japan.txt‫-‬
+Bushido the Soul of Japan.txt and Autobiography of Benjamin Franklin.txt is:	0.6442077657524519
+Bushido the Soul of Japan.txt and The Autobiography of Benjamin Franklin.txt is:	0.6426534320854053
+Bushido the Soul of Japan.txt and Political Ideals.txt is:	0.6116500938856396
+Bushido the Soul of Japan.txt and The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt is:	0.6042273847746834
+Bushido the Soul of Japan.txt and Heart of Darkness.txt is:	0.6002864160437307
+
+
+The Wonderful Wizard of Oz.txt‫-‬
+The Wonderful Wizard of Oz.txt and Heart of Darkness.txt is:	0.5957583796838055
+The Wonderful Wizard of Oz.txt and Beautiful Joe An Autobiography.txt is:	0.5847227631799059
+The Wonderful Wizard of Oz.txt and The Wit and Humor of America Volume IX.txt is:	0.5832702300438012
+The Wonderful Wizard of Oz.txt and Treasure Island.txt is:	0.5760509053738102
+The Wonderful Wizard of Oz.txt and The Man in the Brown Suit.txt is:	0.5598522083946131
+
+
+Alice's Adventures in Wonderland.txt
+Alice's Adventures in Wonderland.txt and The Wit and Humor of America Volume IX.txt is:	0.6427355826632657
+Alice's Adventures in Wonderland.txt and The Secret Garden.txt is:	0.625414286079025
+Alice's Adventures in Wonderland.txt and Beautiful Joe An Autobiography.txt is:	0.6117598680478598
+Alice's Adventures in Wonderland.txt and The Man in the Brown Suit.txt is:	0.6116466325012851
+Alice's Adventures in Wonderland.txt and Heart of Darkness.txt is:	0.5973345533806319
+
+
+Theologico Political Treatise.txt
+Theologico Political Treatise.txt and The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt is:	0.5974767641757406
+Theologico Political Treatise.txt and Bushido the Soul of Japan.txt is:	0.5067302823295493
+Theologico Political Treatise.txt and Political Ideals.txt is:	0.47291351169449114
+Theologico Political Treatise.txt and The Prince.txt is:	0.45374302486871865
+Theologico Political Treatise.txt and Autobiography of Benjamin Franklin.txt is:	0.4289946882679607
+
+
+The Wit and Humor of America Volume IX.txt
+The Wit and Humor of America Volume IX.txt and The Man in the Brown Suit.txt is:	0.7777794172660059
+The Wit and Humor of America Volume IX.txt and Beautiful Joe An Autobiography.txt is:	0.7669732708700917
+The Wit and Humor of America Volume IX.txt and Heart of Darkness.txt is:	0.7462919853268615
+The Wit and Humor of America Volume IX.txt and Treasure Island.txt is:	0.7245049158369242
+The Wit and Humor of America Volume IX.txt and The Adventures of Tom Sawyer.txt is:	0.7154869499996183
+
+
+Political Ideals.txt and Bushido the Soul of Japan.txt is
+Political Ideals.txt and The Prince.txt is:	0.6141454256943906
+Political Ideals.txt and Bushido the Soul of Japan.txt is:	0.6116500938856396
+Political Ideals.txt and Readings on Fascism and National Socialism.txt is:	0.5765778416839027
+Political Ideals.txt and The Autobiography of Benjamin Franklin.txt is:	0.5639196751178879
+Political Ideals.txt and Autobiography of Benjamin Franklin.txt is:	0.5592777335429084
+
+
+The Autobiography of Benjamin Franklin.txt
+The Autobiography of Benjamin Franklin.txt and Autobiography of Benjamin Franklin.txt is:	0.9775778571039143
+The Autobiography of Benjamin Franklin.txt and Up from Slavery An Autobiography.txt is:	0.7259718169765071
+The Autobiography of Benjamin Franklin.txt and Heart of Darkness.txt is:	0.656471253693405
+The Autobiography of Benjamin Franklin.txt and Autobiography of Makataimeshekiakiak or Black Hawk.txt is:	0.6433026620673173
+The Autobiography of Benjamin Franklin.txt and Bushido the Soul of Japan.txt is:	0.6426534320854053
+
+
+The Adventures of Tom Sawyer.txt
+The Adventures of Tom Sawyer.txt and The Wit and Humor of America Volume IX.txt is:	0.7154869499996183
+The Adventures of Tom Sawyer.txt and Treasure Island.txt is:	0.6515637978531061
+The Adventures of Tom Sawyer.txt and Heart of Darkness.txt is:	0.6476562004768615
+The Adventures of Tom Sawyer.txt and Beautiful Joe An Autobiography.txt is:	0.644742395771293
+The Adventures of Tom Sawyer.txt and The Man in the Brown Suit.txt is:	0.6264317015144205
+
+
+Pride and Prejudice a play founded on Jane Austen's novel.txt
+Pride and Prejudice a play founded on Jane Austen's novel.txt and The Wit and Humor of America Volume IX.txt is:	0.43166224516130436
+Pride and Prejudice a play founded on Jane Austen's novel.txt and Beautiful Joe An Autobiography.txt is:	0.39252811563694273
+Pride and Prejudice a play founded on Jane Austen's novel.txt and The Man in the Brown Suit.txt is:	0.36838535212510976
+Pride and Prejudice a play founded on Jane Austen's novel.txt and Heart of Darkness.txt is:	0.33947212995788867
+Pride and Prejudice a play founded on Jane Austen's novel.txt and The Autobiography of Benjamin Franklin.txt is:	0.3313058611294326
+
+
+Autobiography of Makataimeshekiakiak or Black Hawk.txt
+Autobiography of Makataimeshekiakiak or Black Hawk.txt and The Autobiography of Benjamin Franklin.txt is:	0.6433026620673173
+Autobiography of Makataimeshekiakiak or Black Hawk.txt and Autobiography of Benjamin Franklin.txt is:	0.6387310952380351
+Autobiography of Makataimeshekiakiak or Black Hawk.txt and Up from Slavery An Autobiography.txt is:	0.6041556985772298
+Autobiography of Makataimeshekiakiak or Black Hawk.txt and Heart of Darkness.txt is:	0.5870821820612089
+Autobiography of Makataimeshekiakiak or Black Hawk.txt and Treasure Island.txt is:	0.5603251198810894
+
+
+The Call of the Wild.txt
+The Call of the Wild.txt and Heart of Darkness.txt is:	0.5912087857521768
+The Call of the Wild.txt and Treasure Island.txt is:	0.5404428408065131
+The Call of the Wild.txt and Up from Slavery An Autobiography.txt is:	0.5014375702004463
+The Call of the Wild.txt and The Autobiography of Benjamin Franklin.txt is:	0.4924076290941827
+The Call of the Wild.txt and Autobiography of Benjamin Franklin.txt is:	0.48961566080875524
+
+
+The Man in the Brown Suit.txt
+The Man in the Brown Suit.txt and The Wit and Humor of America Volume IX.txt is:	0.7777794172660059
+The Man in the Brown Suit.txt and Heart of Darkness.txt is:	0.7530038563738879
+The Man in the Brown Suit.txt and Beautiful Joe An Autobiography.txt is:	0.7325604289634402
+The Man in the Brown Suit.txt and Treasure Island.txt is:	0.7323690292039905
+The Man in the Brown Suit.txt and The Secret Garden.txt is:	0.655855181295802
+
+
+The Prince.txt
+The Prince.txt and The Autobiography of Benjamin Franklin.txt is:	0.6312110121011666
+The Prince.txt and Autobiography of Benjamin Franklin.txt is:	0.6263663656802724
+The Prince.txt and Political Ideals.txt is:	0.6141454256943906
+The Prince.txt and Up from Slavery An Autobiography.txt is:	0.5773763305510918
+The Prince.txt and Bushido the Soul of Japan.txt is:	0.5753385985162813
+
+
+The Secret Garden.txt
+The Secret Garden.txt and The Wit and Humor of America Volume IX.txt is:	0.6889995854879241
+The Secret Garden.txt and Beautiful Joe An Autobiography.txt is:	0.6737525267981015
+The Secret Garden.txt and The Man in the Brown Suit.txt is:	0.655855181295802
+The Secret Garden.txt and Heart of Darkness.txt is:	0.6382597688669339
+The Secret Garden.txt and Treasure Island.txt is:	0.6257289959843342
+
+
+Treasure Island.txt
+Treasure Island.txt and Heart of Darkness.txt is:	0.7685012032602614
+Treasure Island.txt and The Man in the Brown Suit.txt is:	0.7323690292039905
+Treasure Island.txt and The Wit and Humor of America Volume IX.txt is:	0.7245049158369242
+Treasure Island.txt and Beautiful Joe An Autobiography.txt is:	0.6895470556028301
+Treasure Island.txt and The Adventures of Tom Sawyer.txt is:	0.6515637978531061
+
+
+Readings on Fascism and National Socialism.txt
+Readings on Fascism and National Socialism.txt and Political Ideals.txt is:	0.5765778416839027
+Readings on Fascism and National Socialism.txt and Bushido the Soul of Japan.txt is:	0.5133794421888555
+Readings on Fascism and National Socialism.txt and The Prince.txt is:	0.4875913527629271
+Readings on Fascism and National Socialism.txt and Up from Slavery An Autobiography.txt is:	0.4431998342055626
+Readings on Fascism and National Socialism.txt and Autobiography of Benjamin Franklin.txt is:	0.406100058351689
+
+
+Heart of Darkness.txt
+Heart of Darkness.txt and Treasure Island.txt is:	0.7685012032602614
+Heart of Darkness.txt and The Man in the Brown Suit.txt is:	0.7530038563738879
+Heart of Darkness.txt and The Wit and Humor of America Volume IX.txt is:	0.7462919853268615
+Heart of Darkness.txt and Beautiful Joe An Autobiography.txt is:	0.7034954901793513
+Heart of Darkness.txt and The Autobiography of Benjamin Franklin.txt is:	0.656471253693405
+
+
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt and Autobiography of Benjamin Franklin.txt is:	0.6398733088507742
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt and The Autobiography of Benjamin Franklin.txt is:	0.636518761164932
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt and Bushido the Soul of Japan.txt is:	0.6042273847746834
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt and Theologico Political Treatise.txt is:	0.5974767641757406
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt and Up from Slavery An Autobiography.txt is:	0.582682777196808
+
+
+Autobiography of Benjamin Franklin.txt
+Autobiography of Benjamin Franklin.txt and The Autobiography of Benjamin Franklin.txt is:	0.9775778571039143
+Autobiography of Benjamin Franklin.txt and Up from Slavery An Autobiography.txt is:	0.7188857408288293
+Autobiography of Benjamin Franklin.txt and Heart of Darkness.txt is:	0.6514245237631876
+Autobiography of Benjamin Franklin.txt and Bushido the Soul of Japan.txt is:	0.6442077657524519
+Autobiography of Benjamin Franklin.txt and The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt is:	0.6398733088507742
+
+
+Up from Slavery An Autobiography.txt
+Up from Slavery An Autobiography.txt and The Autobiography of Benjamin Franklin.txt is:	0.7259718169765071
+Up from Slavery An Autobiography.txt and Autobiography of Benjamin Franklin.txt is:	0.7188857408288293
+Up from Slavery An Autobiography.txt and Heart of Darkness.txt is:	0.646722919925079
+Up from Slavery An Autobiography.txt and The Man in the Brown Suit.txt is:	0.6070748781724965
+Up from Slavery An Autobiography.txt and Autobiography of Makataimeshekiakiak or Black Hawk.txt is:	0.6041556985772298
+
+
+Beautiful Joe An Autobiography.txt
+Beautiful Joe An Autobiography.txt and The Wit and Humor of America Volume IX.txt is:	0.7669732708700917
+Beautiful Joe An Autobiography.txt and The Man in the Brown Suit.txt is:	0.7325604289634402
+Beautiful Joe An Autobiography.txt and Heart of Darkness.txt is:	0.7034954901793513
+Beautiful Joe An Autobiography.txt and Treasure Island.txt is:	0.6895470556028301
+Beautiful Joe An Autobiography.txt and The Secret Garden.txt is:	0.6737525267981015
+
+Top five:
+1)	Autobiography of Benjamin Franklin.txt and The Autobiography of Benjamin Franklin.txt is: 0.9775778571039143
+
+2 distributions of the same book that edited by different peoples
+
+2)	The Wit and Humor of America Volume IX.txt and The Man in the Brown Suit.txt is: 0.7777794172660059
+
+Old books (around 1920) wrote with the same linguistic style.
+
+3)	Heart of Darkness.txt and Treasure Island.txt is: 0.7685012032602614
+
+Adventures stories about voyage around the world.
+
+4)	Beautiful Joe An Autobiography.txt and The Wit and Humor of America Volume IX.txt is: 0.7669732708700917
+
+5)	The Man in the Brown Suit.txt and Heart of Darkness.txt is: 0.7530038563738879
+
+Mystery plots and sophisticated characters
+

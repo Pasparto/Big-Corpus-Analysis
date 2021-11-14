@@ -1,0 +1,201 @@
+title of the book
+Bushido the Soul of Japan (Bushido the Soul of Japan.txt)
+Bushido the Soul of Japan.txt the score is 1.2696520570566676
+The Wonderful Wizard of Oz.txt the score is 0.0013378364914088787
+Alice's Adventures in Wonderland.txt the score is: 0.0
+Theologico Political Treatise.txt the score is: 0.01521603431666485
+The Wit and Humor of America Volume IX.txt the score is: 0.039296893402959374
+Political Ideals.txt the score is: 0.0039298295477675615
+The Autobiography of Benjamin Franklin.txt the score is: 0.010014455549443172
+The Adventures of Tom Sawyer.txt the score is: 0.03288662659006016
+Pride and Prejudice a play founded on Jane Austen's novel.txt the score is: 0.0
+Autobiography of Makataimeshekiakiak or Black Hawk.txt the score is: 0.008186262766821828
+The Call of the Wild.txt the score is: 0.0
+The Man in the Brown Suit.txt the score is: 0.03138479160977848
+The Prince.txt the score is: 0.003409648143039959
+The Secret Garden.txt the score is: 0.010931103643955031
+Treasure Island.txt the score is: 0.03532950662346551
+Readings on Fascism and National Socialism.txt the score is: 0.034580454302324586
+Heart of Darkness.txt the score is: 0.10283856189040011
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt the score is 0.03100870964502511
+Autobiography of Benjamin Franklin.txt the score is: 0.01700982696072937
+Up from Slavery An Autobiography.txt the score is: 0.0111287785224907
+Beautiful Joe An Autobiography.txt the score is: 0.0043817191150309935
+
+
+caracter in the book
+Tom Sawyer (The Adventures of Tom Sawyer.txt)
+Bushido the Soul of Japan.txt the score is: 0.0020712680966383794
+The Wonderful Wizard of Oz.txt the score is: 0.0
+Alice's Adventures in Wonderland.txt the score is: 0.0
+Theologico Political Treatise.txt the score is: 0.0
+The Wit and Humor of America Volume IX.txt the score is: 0.26442165784030686
+Political Ideals.txt the score is: 0.0
+The Autobiography of Benjamin Franklin.txt the score is: 0.0
+The Adventures of Tom Sawyer.txt the score is: 2.475565861629894
+Pride and Prejudice a play founded on Jane Austen's novel.txt the score is: 0.0
+Autobiography of Makataimeshekiakiak or Black Hawk.txt the score is: 0.0
+The Call of the Wild.txt the score is: 0.0
+The Man in the Brown Suit.txt the score is: 0.0
+The Prince.txt the score is: 0.0
+The Secret Garden.txt the score is: 0.0
+Treasure Island.txt the score is: 0.060683609984814486
+Readings on Fascism and National Socialism.txt the score is: 0.0
+Heart of Darkness.txt the score is: 0.0
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt the score is: 0.004371781092619066
+Autobiography of Benjamin Franklin.txt the score is: 0.002113314301195878
+Up from Slavery An Autobiography.txt the score is: 0.0038610332460963953
+Beautiful Joe An Autobiography.txt the score is: 0.006103042350660119
+
+
+caracter in the book
+the mad hatter (Alice's Adventures in Wonderland)
+Bushido the Soul of Japan.txt the score is: 0.0
+The Wonderful Wizard of Oz.txt the score is: 0.0
+Alice's Adventures in Wonderland.txt the score is: 0.2674732553300295
+Theologico Political Treatise.txt the score is: 0.002339771214394466
+The Wit and Humor of America Volume IX.txt the score is: 0.005479081928528093
+Political Ideals.txt the score is: 0.0
+The Autobiography of Benjamin Franklin.txt the score is: 0.0
+The Adventures of Tom Sawyer.txt the score is: 0.0
+Pride and Prejudice a play founded on Jane Austen's novel.txt the score is: 0.0
+Autobiography of Makataimeshekiakiak or Black Hawk.txt the score is: 0.0015730349788445816
+The Call of the Wild.txt the score is: 0.0482954256182989
+The Man in the Brown Suit.txt the score is: 0.0154766485164354
+The Prince.txt the score is: 0.0
+The Secret Garden.txt the score is: 0.0057388274709539114
+Treasure Island.txt the score is: 0.0065748681059106156
+Readings on Fascism and National Socialism.txt the score is: 0.0
+Heart of Darkness.txt the score is: 0.04108808422028772
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt the score is: 0.0019284802353310834
+Autobiography of Benjamin Franklin.txt the score is: 0.0
+Up from Slavery An Autobiography.txt the score is: 0.0
+Beautiful Joe An Autobiography.txt the score is: 0.02330690517162785
+
+
+the main subject of the book
+what is Fascism and National Socialism? (Readings on Fascism and National Socialism.txt)
+Bushido the Soul of Japan.txt the score is: 0.06223289144242139
+The Wonderful Wizard of Oz.txt the score is: 0.0
+Alice's Adventures in Wonderland.txt the score is: 0.0
+Theologico Political Treatise.txt the score is: 0.012876263102270384
+The Wit and Humor of America Volume IX.txt the score is: 0.0
+Political Ideals.txt the score is: 0.28783055933019197
+The Autobiography of Benjamin Franklin.txt the score is: 0.0018876643916568862
+The Adventures of Tom Sawyer.txt the score is: 0.0013550400743665414
+Pride and Prejudice a play founded on Jane Austen's novel.txt the score is: 0.0
+Autobiography of Makataimeshekiakiak or Black Hawk.txt the score is: 0.01311038728012285
+The Call of the Wild.txt the score is: 0.0
+The Man in the Brown Suit.txt the score is: 0.0
+The Prince.txt the score is: 0.007790378471981406
+The Secret Garden.txt the score is: 0.0
+Treasure Island.txt the score is: 0.0
+Readings on Fascism and National Socialism.txt the score is: 2.027376062639929
+Heart of Darkness.txt the score is: 0.0
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt the score is: 0.01855785637191369
+Autobiography of Benjamin Franklin.txt the score is: 0.002113314301195878
+Up from Slavery An Autobiography.txt the score is: 0.0445411862878897
+Beautiful Joe An Autobiography.txt the score is: 0.0
+
+
+the main subject of the book
+who was Benjamin Franklin? (The Autobiography of Benjamin Franklin and Autobiography of Benjamin Franklin.txt)
+Bushido the Soul of Japan.txt the score is: 0.0
+The Wonderful Wizard of Oz.txt the score is: 0.0
+Alice's Adventures in Wonderland.txt the score is: 0.0
+Theologico Political Treatise.txt the score is: 0.0
+The Wit and Humor of America Volume IX.txt the score is: 0.012607531866243596
+Political Ideals.txt the score is: 0.0
+The Autobiography of Benjamin Franklin.txt the score is: 0.2365143075134778
+The Adventures of Tom Sawyer.txt the score is: 0.002710080148733083
+Pride and Prejudice a play founded on Jane Austen's novel.txt the score is: 0.0
+Autobiography of Makataimeshekiakiak or Black Hawk.txt the score is: 0.0
+The Call of the Wild.txt the score is: 0.0
+The Man in the Brown Suit.txt the score is: 0.0
+The Prince.txt the score is: 0.0
+The Secret Garden.txt the score is: 0.0
+Treasure Island.txt the score is: 0.004092333463067795
+Readings on Fascism and National Socialism.txt the score is: 0.0
+Heart of Darkness.txt the score is: 0.0036558056166879458
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt the score is: 0.03447326797072834
+Autobiography of Benjamin Franklin.txt the score is: 0.516568411282497
+Up from Slavery An Autobiography.txt the score is: 0.0055682101257865406
+Beautiful Joe An Autobiography.txt the score is: 0.0
+
+
+the main subject of the book
+black people history (general)
+Bushido the Soul of Japan.txt the score is: 0.37448244659833363
+The Wonderful Wizard of Oz.txt the score is: 0.21037983625219814
+Alice's Adventures in Wonderland.txt the score is: 0.07299548022863267
+Theologico Political Treatise.txt the score is: 0.2403082441228443
+The Wit and Humor of America Volume IX.txt the score is: 0.28806468135452734
+Political Ideals.txt the score is: 0.11288890757529418
+The Autobiography of Benjamin Franklin.txt the score is: 0.3301594601629955
+The Adventures of Tom Sawyer.txt the score is: 0.13201759830517026
+Pride and Prejudice a play founded on Jane Austen's novel.txt the score is: 0.06422677566941346
+Autobiography of Makataimeshekiakiak or Black Hawk.txt the score is: 1.2412319176444084
+The Call of the Wild.txt the score is: 0.04598742570010646
+The Man in the Brown Suit.txt the score is: 0.2575032103632606
+The Prince.txt the score is: 0.5935680728432118
+The Secret Garden.txt the score is: 0.26165520570827316
+Treasure Island.txt the score is: 0.23143927103436132
+Readings on Fascism and National Socialism.txt the score is: 1.5168521476006138
+Heart of Darkness.txt the score is: 0.39412224461969136
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt the score is: 0.3531951219260169
+Autobiography of Benjamin Franklin.txt the score is: 0.37599309660971547
+Up from Slavery An Autobiography.txt the score is: 1.222529982481461
+Beautiful Joe An Autobiography.txt the score is: 0.3042086866452759
+
+
+
+chapter's name
+Of The Means Employed In All Time, And Almost Universally, To Deceive The Peoples? (The Wit and Humor of America Volume IX)////
+Bushido the Soul of Japan.txt the score is: 0.3726690966097387
+The Wonderful Wizard of Oz.txt the score is: 0.1716193835839416
+Alice's Adventures in Wonderland.txt the score is: 0.3212644406925032
+Theologico Political Treatise.txt the score is: 0.298340077288035
+The Wit and Humor of America Volume IX.txt the score is: 0.3343135759510396
+Political Ideals.txt the score is: 0.44012517487860187
+The Autobiography of Benjamin Franklin.txt the score is: 1.0340845893687125
+The Adventures of Tom Sawyer.txt the score is: 0.6513921460917573
+Pride and Prejudice a play founded on Jane Austen's novel.txt the score is: 0.18859518951094353
+Autobiography of Makataimeshekiakiak or Black Hawk.txt the score is: 0.6077019282608839
+The Call of the Wild.txt the score is: 0.5103167671637012
+The Man in the Brown Suit.txt the score is: 0.6546043758679753
+The Prince.txt the score is: 0.590070098210992
+The Secret Garden.txt the score is: 0.4471961457521687
+Treasure Island.txt the score is: 0.6122681850933521
+Readings on Fascism and National Socialism.txt the score is: 0.5254429848847351
+Heart of Darkness.txt the score is: 0.6340246732645076
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt the score is: 1.007657365800185
+Autobiography of Benjamin Franklin.txt the score is: 1.107459567480671
+Up from Slavery An Autobiography.txt the score is: 1.1916281058986389
+Beautiful Joe An Autobiography.txt the score is: 0.5176595924739464
+
+
+subject inside the book (the prince)
+WHY THE KINGDOM OF DARIUS, OCCUPIED BY ALEXANDER, DID NOT REBEL AGAINST THE SUCCESSORS OF THE LATTER AFTER HIS DEATH?
+Bushido the Soul of Japan.txt the score is: 0.20862201172069114
+The Wonderful Wizard of Oz.txt the score is: 0.008780132328803326
+Alice's Adventures in Wonderland.txt the score is: 0.0018227107704592517
+Theologico Political Treatise.txt the score is: 0.11144200491384812
+The Wit and Humor of America Volume IX.txt the score is: 0.010133479852462482
+Political Ideals.txt the score is: 0.04844251614573958
+The Autobiography of Benjamin Franklin.txt the score is: 0.09635676073498542
+The Adventures of Tom Sawyer.txt the score is: 0.048289424704293434
+Pride and Prejudice a play founded on Jane Austen's novel.txt the score is: 0.01745073040304668
+Autobiography of Makataimeshekiakiak or Black Hawk.txt the score is: 0.10863545504100233
+The Call of the Wild.txt the score is: 0.09089434616070047
+The Man in the Brown Suit.txt the score is: 0.05285652815815256
+The Prince.txt the score is: 0.6911683954044678
+The Secret Garden.txt the score is: 0.014606606702911841
+Treasure Island.txt the score is: 0.06811105757207875
+Readings on Fascism and National Socialism.txt the score is: 0.05771215952434026
+Heart of Darkness.txt the score is: 0.09372640024845284
+The Writings of Thomas Paine Volume 4 1794 to 1796 The Age of Reason.txt the score is: 0.27372709840115766
+Autobiography of Benjamin Franklin.txt the score is: 0.09848499249336125
+Up from Slavery An Autobiography.txt the score is: 0.04576593683625242
+Beautiful Joe An Autobiography.txt the score is: 0.07969731861054995
+
+
