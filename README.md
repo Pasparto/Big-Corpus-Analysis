@@ -42,14 +42,14 @@ Normalizing a vector is the process of transforming it so that its length (or ma
 ## Installation
 To install this repository, first make sure you have Python 3.6 or later installed on your computer. Then, clone or download the repository from GitHub using the following command:
 
-'''
+```
 git clone https://github.com/Pasparto/Big-Corpus-Analysis.git
-'''
+```
 
 Once the repository has been cloned to your computer, navigate to the directory containing the repository and install the necessary dependencies using the following command:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 Once the dependencies have been installed, you can run the scripts in the repository.
